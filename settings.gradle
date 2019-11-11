@@ -1,0 +1,5 @@
+rootProject.name = 'suixingpay-cloud-demo'
+include "suixingpay-cloud-demo-common"
+include "suixingpay-cloud-demo-client"
+include "suixingpay-cloud-demo-service"
+include "suixingpay-cloud-demo-consumer"
